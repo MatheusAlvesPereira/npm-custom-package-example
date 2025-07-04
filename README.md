@@ -1,0 +1,1 @@
+# npm-custom-package-example
